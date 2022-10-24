@@ -12,5 +12,6 @@ using namespace std;
         return 0;
     }
     cout << "YES"
+    //gna tun
     return 0;
  }
